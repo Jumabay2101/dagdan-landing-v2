@@ -34,10 +34,13 @@ const tk = {
     email: 'E-poçta',
     address: 'Salgy',
     location: 'Aşgabat şäheri, Köpetdag etraby, Parahat 2/4 ýaşaýyş toplumy 2',
+    call: 'Jaň etmek',
+    write: 'Hat ýazmak',
   },
   footer: {
     description: '«Dagdan Tehnologiýa kärhanasy» sanly ykdysadyýete geçmek üçin programma üpjünçilikleri we ýokary derejeli IT hyzmatlary ýerine ýetirýär.',
     rights: 'Ähli hukuklar goragly.',
+    top: 'Ýokary',
   },
   ui: { menu: 'Menýu', close: 'Ýap', language: 'Dil' },
 }
@@ -76,10 +79,13 @@ const ru: Dict = {
     email: 'Электронная почта',
     address: 'Адрес',
     location: 'г. Ашхабад, Копетдагский район, жилой комплекс Парахат 2/4, дом 2',
+    call: 'Позвонить',
+    write: 'Написать',
   },
   footer: {
     description: '«Dagdan Tehnologiýa kärhanasy» разрабатывает программное обеспечение и оказывает IT-услуги высокого уровня для перехода к цифровой экономике.',
     rights: 'Все права защищены.',
+    top: 'Наверх',
   },
   ui: { menu: 'Меню', close: 'Закрыть', language: 'Язык' },
 }
@@ -116,10 +122,13 @@ const en: Dict = {
     email: 'Email',
     address: 'Address',
     location: 'Ashgabat, Kopetdag District, Parahat 2/4 Residential Complex, Building 2',
+    call: 'Call us',
+    write: 'Email us',
   },
   footer: {
     description: '«Dagdan Tehnologiýa kärhanasy» delivers software and high-level IT services for the transition to a digital economy.',
     rights: 'All rights reserved.',
+    top: 'Back to top',
   },
   ui: { menu: 'Menu', close: 'Close', language: 'Language' },
 }
