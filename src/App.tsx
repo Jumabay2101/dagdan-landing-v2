@@ -22,20 +22,11 @@ function Icon({ path, size = 24 }: { path: string; size?: number }) {
 function Logo() {
   return (
     <a className="logo" href="#top" aria-label={BRAND}>
-      <svg viewBox="0 0 64 64" width="38" height="38" aria-hidden="true">
-        <defs>
-          <linearGradient id="logo-fill" x1="0" y1="0" x2="1" y2="1">
-            <stop stopColor="#4E6EF1" />
-            <stop offset="1" stopColor="#38D6E8" />
-          </linearGradient>
-        </defs>
-        <rect width="64" height="64" rx="16" fill="url(#logo-fill)" />
-        <path d="M12 46 26 20l8 14 5-8 13 20z" fill="#fff" />
-      </svg>
-      <span>
+      <img src="favicon.png" aria-hidden="true" />
+      {/* <span>
         <b>Dagdan Tehnologiýa</b>
         <small>kärhanasy</small>
-      </span>
+      </span> */}
     </a>
   )
 }
