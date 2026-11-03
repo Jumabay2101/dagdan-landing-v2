@@ -25,7 +25,7 @@ function Logo() {
       <img src="favicon.png" aria-hidden="true" />
       {/* <span>
         <b>Dagdan Tehnologiýa</b>
-        <small>kärhanasy</small>
+        <small>hususy kärhanasy</small>
       </span> */}
     </a>
   )

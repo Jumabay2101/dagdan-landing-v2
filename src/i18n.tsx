@@ -1,6 +1,6 @@
 import { createContext, useContext, useEffect, useState, type ReactNode } from 'react'
 
-export const BRAND = 'Dagdan Tehnologiýa kärhanasy'
+export const BRAND = 'Dagdan Tehnologiýa hususy kärhanasy'
 
 const tk = {
   nav: { about: 'Biz barada', services: 'Hyzmatlarymyz', process: 'Tapgyrlar', contact: 'Habarlaşmak' },
@@ -38,7 +38,7 @@ const tk = {
     write: 'Hat ýazmak',
   },
   footer: {
-    description: '«Dagdan Tehnologiýa kärhanasy» sanly ykdysadyýete geçmek üçin programma üpjünçilikleri we ýokary derejeli IT hyzmatlary ýerine ýetirýär.',
+    description: '«Dagdan Tehnologiýa hususy kärhanasy» sanly ykdysadyýete geçmek üçin programma üpjünçilikleri we ýokary derejeli IT hyzmatlary ýerine ýetirýär.',
     rights: 'Ähli hukuklar goragly.',
     top: 'Ýokary',
   },
@@ -83,7 +83,7 @@ const ru: Dict = {
     write: 'Написать',
   },
   footer: {
-    description: '«Dagdan Tehnologiýa kärhanasy» разрабатывает программное обеспечение и оказывает IT-услуги высокого уровня для перехода к цифровой экономике.',
+    description: '«Dagdan Tehnologiýa hususy kärhanasy» разрабатывает программное обеспечение и оказывает IT-услуги высокого уровня для перехода к цифровой экономике.',
     rights: 'Все права защищены.',
     top: 'Наверх',
   },
@@ -126,7 +126,7 @@ const en: Dict = {
     write: 'Email us',
   },
   footer: {
-    description: '«Dagdan Tehnologiýa kärhanasy» delivers software and high-level IT services for the transition to a digital economy.',
+    description: '«Dagdan Tehnologiýa hususy kärhanasy» delivers software and high-level IT services for the transition to a digital economy.',
     rights: 'All rights reserved.',
     top: 'Back to top',
   },
